@@ -14,7 +14,7 @@ bibliography: references.bib
 
 # Quarto
 
-![](images/20241128_092809.heic)
+![](images/20241128_092809-01.heic)
 
 | Col1 | Col2 | Col3 |
 |------|------|------|
