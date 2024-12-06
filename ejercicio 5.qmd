@@ -14,6 +14,14 @@ bibliography: references.bib
 
 # Quarto
 
+![](images/20241128_092809-01.heic)
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 # Running Code
